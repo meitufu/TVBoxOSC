@@ -1,3 +1,11 @@
+# 微信公众号“太阳视听”
+
+[TVBox资源大合集](https://tyrjk.hao363.com/)  
+
+多仓链接：https://agit.ai/3580805300/TVBox
+
+极狐：https://jihulab.com/meitufu
+
 # TVBoxOSC
 
 ![Build](https://shields.io/github/actions/workflow/status/o0HalfLife0o/TVBoxOSC/test.yml?branch=master&logo=github&label=Build)
